@@ -1,0 +1,5 @@
+"Reference","Qty","Value","DNP","Exclude from BOM","Exclude from Board","Footprint","Datasheet"
+"J1","1","display","","","","Connector_PinHeader_1.00mm:PinHeader_1x07_P1.00mm_Vertical",""
+"LS1","1","Speaker","","","","Connector_JST:JST_PH_B2B-PH-K_1x02_P2.00mm_Vertical",""
+"U1","1","XIAO-ESP32-S3-SMD","","","","New_XIAO_Series_Footprints:XIAO-ESP32-S3-SMD",""
+"U3","1","adafruit-MAX98357","","","","footprints:adafruit-MAX98357","https://learn.adafruit.com/adafruit-max98357-i2s-class-d-mono-amp/overview"
