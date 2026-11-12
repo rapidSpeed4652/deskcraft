@@ -4,6 +4,9 @@
 An AI-powered desk robot that responds to voice commands and can use inbuilt camera to use pictures as context for answers.
 The AI model is run on a PC which communicates directly with the robot.
 
+[![View PCB on KiCanvas](https://hack.club/pcb-badge)](https://kicanvas.org/?repo=https://github.com/rapidSpeed4652/deskcraft/tree/main/pcb)
+(If it looks very green, try disabling the Edge.Cuts layer from the layers tab)
+
 ## Features
 - Responds to voice commands
 - Uses camera as context
