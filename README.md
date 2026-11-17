@@ -30,6 +30,9 @@ The AI model is run on a PC which communicates directly with the robot.
 
 (i swear it will look better irl :P)
 
+## Onshape url
+https://cad.onshape.com/documents/b63407ed3120d82d91f122be/w/f6937e50d8bbef57107a5206/e/a72c19b49a035d7c3cf8bcb7
+
 ## BOM
 - 1x Seeed esp32 s3 sense
 - 1x 1.54" 7-pin SPI OLED Display
